@@ -4,9 +4,7 @@ using System.Text;
 
 namespace EFSamurai
 {
-	class EFSamuraiData
+	class EFSamuraiDomain
 	{
-		
-
 	}
 }
