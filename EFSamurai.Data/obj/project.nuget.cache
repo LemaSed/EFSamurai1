@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "tmXxsptNcivo62fBQxP7f2ZWI0WkWAnvAexhlYjwFooPQ0HEHvq1XAUvPI7VpRqMg7l6wPPZUIEHJtfJXjsQaQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lema Sediqi\\source\\repos\\EFSamurai\\EFSamurai.Data\\EFSamurai.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lema Sediqi\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Lema Sediqi\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
